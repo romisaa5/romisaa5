@@ -76,6 +76,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/romisaa5/romisaa5/output/snake.svg" alt="Snake animation" />
 
 ###
