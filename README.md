@@ -41,7 +41,7 @@
 ###
 
 <div align="left">
-  <a href="romisaa55" target="_blank">
+  <a href="https://discord.gg/m8WBXYNh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="romisaafadel982@gmail.com" target="_blank">
