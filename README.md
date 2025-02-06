@@ -6,7 +6,7 @@
 <p align="center">I'm a Software Engieer | Flutter Developer</p>
 
 ###
-<p align="left">Langauges :</p>
+<p align="left">Langauges & Tools:</p>
 
 ###
 
