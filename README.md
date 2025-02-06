@@ -6,7 +6,7 @@
 <p align="center">I'm a Software Engieer | Flutter Developer</p>
 
 ###
-<p align="left">Langauge :</p>
+<p align="left">Langauges :</p>
 
 ###
 
@@ -35,10 +35,12 @@
 </div>
 
 ###
-
-<p align="left">To connect with Me :</p>
-
+<p align="left"> 📫 To Connect with Me on gmail  :</p>
+ 
+- **Email**: [romisaafadel982@gmail.com ](#)
 ###
+
+<p align="left">To connect with Me on other platforms :</p>
 
 <div align="left">
   <a href="https://discord.gg/m8WBXYNh" target="_blank">
