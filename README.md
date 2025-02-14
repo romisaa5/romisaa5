@@ -1,9 +1,9 @@
 
 
-<h2 align="center">Hi 👋! My name is Romisaa</h2>
+<h2 align="center">Hi 👋! My name is Romisaa Fadel </h2>
 
 ###
-<p align="center">I'm a Software Engieer | Flutter Developer</p>
+<p align="center"> Software Engieer | Flutter Developer</p>
 
 ###
 <p align="left">Langauges & Tools:</p>
