@@ -12,17 +12,21 @@ I'm a passionate **Software Engineer & Flutter Developer**. I love building seam
 
 💡 I aim to contribute to innovative tech projects and create impactful software solutions!
 
----
+###
 
 ## 📌 My Skills  
+<div align="left">
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQ3cjJtaXByYnBrdGZ1YWNtdG14NHlqamd0YWp1YWFxenh1OHFncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/NiwZ9THiCOodYySoSh/giphy.gif"  />
+
 - **Mobile App Development using Flutter & Dart**  
 - **UI/UX Design**  
 - **Working with Firebase**  
 - **RESTful API Integration**  
 - **Version Control (Git & GitHub)**  
 - **Programming Languages:** Dart, C++, Python, C#  
+</div>
 
----
+###
 
 ## 🛠 Languages & Tools  
 
@@ -50,9 +54,9 @@ I'm a passionate **Software Engineer & Flutter Developer**. I love building seam
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
----
+###
 
-## 📫 Contact Me  
+##  Contact Me  
 - **Email**: [romisaafadel982@gmail.com](mailto:romisaafadel982@gmail.com)  
 
 ### 🌐 Connect with Me  
@@ -76,11 +80,7 @@ I'm a passionate **Software Engineer & Flutter Developer**. I love building seam
   </a>
 </div>
 
----
-
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQ3cjJtaXByYnBrdGZ1YWNtdG14NHlqamd0YWp1YWFxenh1OHFncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/NiwZ9THiCOodYySoSh/giphy.gif"  />
-
----
+###
 
 ## 📊 GitHub Stats  
 <div align="center">
@@ -89,8 +89,12 @@ I'm a passionate **Software Engineer & Flutter Developer**. I love building seam
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romisaa5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+
+###
+
+<br clear="both">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romisaa5&label=Profile%20views&color=0e75b6&style=flat" alt="romisaa5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romisaa5" alt="romisaa5" /></a> </p>
+
