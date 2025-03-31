@@ -1,14 +1,30 @@
+<h2 align="center">Hi 👋! My name is Romisaa Fadel</h2>
 
+<p align="center"> <strong>Software Engineer | Flutter Developer</strong> </p>
 
-<h2 align="center">Hi 👋! My name is Romisaa Fadel </h2>
+---
 
-###
-<p align="center"> Software Engieer | Flutter Developer</p>
+## 🙋‍♀️ About Me  
 
-###
-<p align="left">Langauges & Tools:</p>
+I'm a passionate **Software Engineer & Flutter Developer**. I love building seamless and user-friendly mobile applications that provide great experiences. Always eager to learn and take on new challenges to improve my skills.
 
-###
+🚀 Interested in software development, engineering best practices, and modern technology solutions. Constantly learning and enhancing my projects with the latest advancements.
+
+💡 I aim to contribute to innovative tech projects and create impactful software solutions!
+
+---
+
+## 📌 My Skills  
+- **Mobile App Development using Flutter & Dart**  
+- **UI/UX Design**  
+- **Working with Firebase**  
+- **RESTful API Integration**  
+- **Version Control (Git & GitHub)**  
+- **Programming Languages:** Dart, C++, Python, C#  
+
+---
+
+## 🛠 Languages & Tools  
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -34,19 +50,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
-###
-<p align="left"> 📫 To Connect with Me on gmail  :</p>
- 
-- **Email**: [romisaafadel982@gmail.com ](#)
-###
+---
 
-<p align="left">To connect with Me on other platforms :</p>
+## 📫 Contact Me  
+- **Email**: [romisaafadel982@gmail.com](mailto:romisaafadel982@gmail.com)  
+
+### 🌐 Connect with Me  
 
 <div align="left">
   <a href="https://discord.gg/m8WBXYNh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
- 
+  
   <a href="https://www.linkedin.com/in/romisaafadel/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -61,25 +76,21 @@
   </a>
 </div>
 
-###
+---
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQ3cjJtaXByYnBrdGZ1YWNtdG14NHlqamd0YWp1YWFxenh1OHFncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/NiwZ9THiCOodYySoSh/giphy.gif"  />
 
-###
+---
 
+## 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=romisaa5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=romisaa5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romisaa5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<br clear="both">
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romisaa5&label=Profile%20views&color=0e75b6&style=flat" alt="romisaa5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romisaa5" alt="romisaa5" /></a> </p>
-
-
-###
