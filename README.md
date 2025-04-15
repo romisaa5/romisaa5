@@ -18,8 +18,7 @@ I'm a passionate **Software Engineer & Flutter Developer**. I love building seam
 <div align="left">
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQ3cjJtaXByYnBrdGZ1YWNtdG14NHlqamd0YWp1YWFxenh1OHFncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/NiwZ9THiCOodYySoSh/giphy.gif"  />
 
-- **Mobile App Development using Flutter & Dart**  
-- **UI/UX Design**  
+- **Mobile App Development using Flutter & Dart**    
 - **Working with Firebase**  
 - **RESTful API Integration**  
 - **Version Control (Git & GitHub)**  
