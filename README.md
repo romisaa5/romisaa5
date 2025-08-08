@@ -6,11 +6,7 @@
 
 ## 🙋‍♀️ About Me  
 
-I'm a passionate **Software Engineer & Flutter Developer**. I love building seamless and user-friendly mobile applications that provide great experiences. Always eager to learn and take on new challenges to improve my skills.
-
-🚀 Interested in software development, engineering best practices, and modern technology solutions. Constantly learning and enhancing my projects with the latest advancements.
-
-💡 I aim to contribute to innovative tech projects and create impactful software solutions!
+I'm a third-year Computer Science student and a passionate Flutter Developer. I enjoy building clean, responsive, and user-focused mobile apps using Flutter and Dart. I’m always learning new tools and technologies, especially in app development, state management, and APIs. Excited to grow, build real-world projects, and be part of impactful tech communities.
 
 ###
 
@@ -22,7 +18,8 @@ I'm a passionate **Software Engineer & Flutter Developer**. I love building seam
 - **Working with Firebase**  
 - **RESTful API Integration**  
 - **Version Control (Git & GitHub)**  
-- **Programming Languages:** Dart, C++, Python, C#  
+- **Programming Languages:** Dart, C++, Python, C#
+- **State Management** using BLoC & Cubit
 </div>
 
 ###
